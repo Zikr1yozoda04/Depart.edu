@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Depart.edu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\controllers\\controlermavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\controllers\\controlermavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\data\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\data\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\mavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\mavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\katmavz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\katmavz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\mavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\mavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlerMavzu.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Controllers\\ControlerMavzu.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Controllers\\ControlerMavzu.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Controllers\\ControlerMavzu.cs",
+              "RelativeToolTip": "Mavzuho\\Controllers\\ControlerMavzu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:49:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Program.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Program.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Program.cs",
+              "RelativeToolTip": "Mavzuho\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:30:30.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\appsettings.json",
+              "RelativeDocumentMoniker": "Mavzuho\\appsettings.json",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\appsettings.json",
+              "RelativeToolTip": "Mavzuho\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T06:18:03.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataB.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Data\\DataB.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Data\\DataB.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Data\\DataB.cs",
+              "RelativeToolTip": "Mavzuho\\Data\\DataB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:57:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tip.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Tip.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Models\\Tip.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Tip.cs",
+              "RelativeToolTip": "Mavzuho\\Models\\Tip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:45:52.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mavod.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavod.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Models\\Mavod.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavod.cs",
+              "RelativeToolTip": "Mavzuho\\Models\\Mavod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:43:53.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KatMavz.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\KatMavz.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Models\\KatMavz.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\KatMavz.cs",
+              "RelativeToolTip": "Mavzuho\\Models\\KatMavz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:43:16.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mavzu.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavzu.cs",
+              "RelativeDocumentMoniker": "Mavzuho\\Models\\Mavzu.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavzu.cs",
+              "RelativeToolTip": "Mavzuho\\Models\\Mavzu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:36:25.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
