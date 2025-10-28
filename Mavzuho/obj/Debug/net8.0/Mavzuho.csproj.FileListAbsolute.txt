@@ -128,10 +128,11 @@ D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.build.json
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.development.json
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\Mavzuho.csproj.Up2Date
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\Mavzuho.dll
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\refint\Mavzuho.dll
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\Mavzuho.pdb
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\Mavzuho.genruntimeconfig.cache
 D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\ref\Mavzuho.dll
+D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\Mavzuho.sourcelink.json
+D:\Project\Depart.edu\Mavzuho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -3,11 +3,13 @@
     public class Mavzu
     {
         public int Id { get; set; }
-        public string Nom { get; set; }
-        public string KatMavzu { get; set; }
-        public string Sohib { get; set; }
-        public int Rohbar { get; set; }
-        public int Datu { get; set; }
+        public string Nomgu { get; set; }
+        public int  IdKatMavzu { get; set; }
+        public int IdStudent { get; set; }
+        public int IdOmuzgor { get; set; }
+        public DateTime Sana { get; set; }
+        
+        public Mavod mavod;
 
     }
 }

@@ -3,36 +3,72 @@
   "WorkspaceRootPath": "D:\\Project\\Depart.edu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\omuzgorservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\omuzgorservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\darajaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\darajaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\data\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\data\\datab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\model\\omuzgor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\model\\omuzgor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\controllers\\controlermavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\controllers\\controlermavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\model\\daraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\model\\daraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\data\\omuzgordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\data\\omuzgordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\controllers\\unvoncontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\controllers\\unvoncontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\unvonsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\unvonsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\controllers\\darajacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\controllers\\darajacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\controllers\\omuzgorcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\controllers\\omuzgorcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\idaraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\idaraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\mavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\mavzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\katmavz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\katmavz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\mavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\mavod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\iomuzgor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\iomuzgor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|d:\\project\\depart.edu\\mavzuho\\models\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D774C03-3343-4CF7-882B-FE59A50DC075}|Mavzuho\\Mavzuho.csproj|solutionrelative:mavzuho\\models\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\omuzgorservise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\omuzgorservise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\model\\unvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\model\\unvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|d:\\project\\depart.edu\\omuzgorservise\\service\\iunvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A02A11-A117-4B5C-9478-71738014254D}|OmuzgorServise\\OmuzgorServise.csproj|solutionrelative:omuzgorservise\\service\\iunvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +78,227 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ControlerMavzu.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Controllers\\ControlerMavzu.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Controllers\\ControlerMavzu.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Controllers\\ControlerMavzu.cs",
-              "RelativeToolTip": "Mavzuho\\Controllers\\ControlerMavzu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:49:00.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Program.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Program.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Program.cs",
-              "RelativeToolTip": "Mavzuho\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:30:30.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\appsettings.json",
-              "RelativeDocumentMoniker": "Mavzuho\\appsettings.json",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\appsettings.json",
-              "RelativeToolTip": "Mavzuho\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T06:18:03.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataB.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Data\\DataB.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Data\\DataB.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Data\\DataB.cs",
-              "RelativeToolTip": "Mavzuho\\Data\\DataB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:57:09.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tip.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Tip.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Models\\Tip.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Tip.cs",
-              "RelativeToolTip": "Mavzuho\\Models\\Tip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "UnvonSevice.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\UnvonSevice.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\UnvonSevice.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\UnvonSevice.cs*",
+              "RelativeToolTip": "OmuzgorServise\\Service\\UnvonSevice.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T03:45:52.037Z",
+              "WhenOpened": "2025-10-28T07:32:04.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Mavod.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavod.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Models\\Mavod.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavod.cs",
-              "RelativeToolTip": "Mavzuho\\Models\\Mavod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "UnvonControler.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\UnvonControler.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Controllers\\UnvonControler.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\UnvonControler.cs",
+              "RelativeToolTip": "OmuzgorServise\\Controllers\\UnvonControler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wCkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T03:43:53.217Z",
+              "WhenOpened": "2025-10-28T08:23:14.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "KatMavz.cs",
-              "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\KatMavz.cs",
-              "RelativeDocumentMoniker": "Mavzuho\\Models\\KatMavz.cs",
-              "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\KatMavz.cs",
-              "RelativeToolTip": "Mavzuho\\Models\\KatMavz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "OmuzgorDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Data\\OmuzgorDbContext.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Data\\OmuzgorDbContext.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Data\\OmuzgorDbContext.cs*",
+              "RelativeToolTip": "OmuzgorServise\\Data\\OmuzgorDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T03:43:16.125Z",
+              "WhenOpened": "2025-10-28T06:56:18.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Daraja.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Daraja.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Model\\Daraja.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Daraja.cs",
+              "RelativeToolTip": "OmuzgorServise\\Model\\Daraja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:49:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Program.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Program.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Program.cs*",
+              "RelativeToolTip": "OmuzgorServise\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:37:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DarajaService.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\DarajaService.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\DarajaService.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\DarajaService.cs*",
+              "RelativeToolTip": "OmuzgorServise\\Service\\DarajaService.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:21:17.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Omuzgor.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Omuzgor.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Model\\Omuzgor.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Omuzgor.cs",
+              "RelativeToolTip": "OmuzgorServise\\Model\\Omuzgor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:40:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OmuzgorServic.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\OmuzgorServic.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\OmuzgorServic.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\OmuzgorServic.cs",
+              "RelativeToolTip": "OmuzgorServise\\Service\\OmuzgorServic.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:38:09.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DarajaControler.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\DarajaControler.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Controllers\\DarajaControler.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\DarajaControler.cs",
+              "RelativeToolTip": "OmuzgorServise\\Controllers\\DarajaControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:51:32.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OmuzgorControler.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\OmuzgorControler.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Controllers\\OmuzgorControler.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Controllers\\OmuzgorControler.cs",
+              "RelativeToolTip": "OmuzgorServise\\Controllers\\OmuzgorControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:28:28.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDaraja.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IDaraja.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\IDaraja.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IDaraja.cs",
+              "RelativeToolTip": "OmuzgorServise\\Service\\IDaraja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:55:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\appsettings.json",
+              "RelativeDocumentMoniker": "OmuzgorServise\\appsettings.json",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\appsettings.json",
+              "RelativeToolTip": "OmuzgorServise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T08:35:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Mavzu.cs",
               "DocumentMoniker": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavzu.cs",
               "RelativeDocumentMoniker": "Mavzuho\\Models\\Mavzu.cs",
               "ToolTip": "D:\\Project\\Depart.edu\\Mavzuho\\Models\\Mavzu.cs",
               "RelativeToolTip": "Mavzuho\\Models\\Mavzu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T03:36:25.623Z",
+              "WhenOpened": "2025-10-28T08:51:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOmuzgor.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IOmuzgor.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\IOmuzgor.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IOmuzgor.cs",
+              "RelativeToolTip": "OmuzgorServise\\Service\\IOmuzgor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:17:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OmuzgorServise",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\OmuzgorServise.csproj",
+              "RelativeDocumentMoniker": "OmuzgorServise\\OmuzgorServise.csproj",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\OmuzgorServise.csproj",
+              "RelativeToolTip": "OmuzgorServise\\OmuzgorServise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T06:39:08.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnvon.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IUnvon.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Service\\IUnvon.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Service\\IUnvon.cs",
+              "RelativeToolTip": "OmuzgorServise\\Service\\IUnvon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:13:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Unvon.cs",
+              "DocumentMoniker": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Unvon.cs",
+              "RelativeDocumentMoniker": "OmuzgorServise\\Model\\Unvon.cs",
+              "ToolTip": "D:\\Project\\Depart.edu\\OmuzgorServise\\Model\\Unvon.cs",
+              "RelativeToolTip": "OmuzgorServise\\Model\\Unvon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:51:26.54Z",
               "EditorCaption": ""
             }
           ]

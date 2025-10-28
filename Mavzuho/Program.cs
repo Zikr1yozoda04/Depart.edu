@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("CatalogDb");
-builder.Services.AddDbContext<DataB>(options => options.UseNpgsql(connectionString));
+builder.Services.AddDbContext<MavzuDbContext>(options => options.UseNpgsql(connectionString));
 
 
 var app = builder.Build();

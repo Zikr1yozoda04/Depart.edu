@@ -1,0 +1,239 @@
+[
+  {
+    "ContainingType": "OmuzgorServise.Controllers.DarajaControler",
+    "Method": "GetAll",
+    "RelativePath": "api/DarajaControler",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.DarajaControler",
+    "Method": "Create",
+    "RelativePath": "api/DarajaControler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "daraja",
+        "Type": "OmuzgorServise.Model.Daraja",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.DarajaControler",
+    "Method": "GetById",
+    "RelativePath": "api/DarajaControler/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.DarajaControler",
+    "Method": "Update",
+    "RelativePath": "api/DarajaControler/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "daraja",
+        "Type": "OmuzgorServise.Model.Daraja",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.DarajaControler",
+    "Method": "Delete",
+    "RelativePath": "api/DarajaControler/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.OmuzgorControler",
+    "Method": "GetAll",
+    "RelativePath": "api/OmuzgorControler",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.OmuzgorControler",
+    "Method": "Create",
+    "RelativePath": "api/OmuzgorControler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "omuzgor",
+        "Type": "OmuzgorServise.Model.Omuzgor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.OmuzgorControler",
+    "Method": "GetById",
+    "RelativePath": "api/OmuzgorControler/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.OmuzgorControler",
+    "Method": "Update",
+    "RelativePath": "api/OmuzgorControler/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "omuzgor",
+        "Type": "OmuzgorServise.Model.Omuzgor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.OmuzgorControler",
+    "Method": "Delete",
+    "RelativePath": "api/OmuzgorControler/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.UnvonControler",
+    "Method": "GetAll",
+    "RelativePath": "api/UnvonControler",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.UnvonControler",
+    "Method": "Create",
+    "RelativePath": "api/UnvonControler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "unvon",
+        "Type": "OmuzgorServise.Model.Unvon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.UnvonControler",
+    "Method": "GetById",
+    "RelativePath": "api/UnvonControler/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.UnvonControler",
+    "Method": "Update",
+    "RelativePath": "api/UnvonControler/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "unvon",
+        "Type": "OmuzgorServise.Model.Unvon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OmuzgorServise.Controllers.UnvonControler",
+    "Method": "Delete",
+    "RelativePath": "api/UnvonControler/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

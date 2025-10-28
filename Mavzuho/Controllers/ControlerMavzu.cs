@@ -9,11 +9,11 @@ namespace Mavzuho.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class BooksController : ControllerBase
+    public class MavzuControler : ControllerBase
     {
-        private readonly DataB _context;
+        private readonly MavzuDbContext _context;
 
-        public BooksController(DataB context)
+        public MavzuControler(MavzuDbContext context)
         {
             _context = context;
         }
@@ -22,52 +22,52 @@ namespace Mavzuho.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var books = await _context.Mavods.ToListAsync();
-            return Ok(books);
+            var mavods = await _context.Mavzuho.ToListAsync();
+            return Ok(mavods);
         }
 
         
         [HttpGet("{id:int}")]
         public async Task<IActionResult> Get(int id)
         {
-            var book = await _context.Mavods.FindAsync(id);
-            if (book == null)
+            var mavzu = await _context.Mavzuho.FindAsync(id);
+            if (mavzu == null)
             {
-                return NotFound(new { message = "Китоб ёфт нашуд" });
+                return NotFound(new { message = "Мавзу ёфт нашуд" });
             }
-            return Ok(book);
+            return Ok(mavzu);
         }
 
         
         [HttpPost]
-        public async Task<IActionResult> Create([FromBody] Mavod book)
+        public async Task<IActionResult> Create([FromBody] Mavzu mavzu)
         {
-            if (book == null || !ModelState.IsValid)
+            if (mavzu == null || !ModelState.IsValid)
             {
                 return BadRequest(new { message = "Маълумоти нодуруст ворид шудааст" });
             }
 
-            _context.Mavods.Add(book);
+            _context.Mavzuho.Add(mavzu);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(Get), new { id = book.Id }, book);
+            return CreatedAtAction(nameof(Get), new { id = mavzu.Id }, mavzu);
         }
 
        
         [HttpPut("{id:int}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Mavod book)
+        public async Task<IActionResult> Update(int id, [FromBody] Mavzu mavzu)
         {
-            if (id != book.Id || !ModelState.IsValid)
+            if (id != mavzu.Id || !ModelState.IsValid)
             {
                 return BadRequest(new { message = "Маълумоти нодуруст ворид шудааст" });
             }
 
-            var exists = await _context.Mavods.AnyAsync(x => x.Id == id);
+            var exists = await _context.Mavzuho.AnyAsync(x => x.Id == id);
             if (!exists)
             {
-                return NotFound(new { message = "Китоб ёфт нашуд" });
+                return NotFound(new { message = "Мавзу ёфт нашуд" });
             }
 
-            _context.Entry(book).State = EntityState.Modified;
+            _context.Entry(mavzu).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return NoContent();
         }
@@ -76,13 +76,13 @@ namespace Mavzuho.Controllers
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var book = await _context.Mavods.FindAsync(id);
-            if (book == null)
+            var mavzu = await _context.Mavzuho.FindAsync(id);
+            if (mavzu == null)
             {
-                return NotFound(new { message = "Китоб ёфт нашуд" });
+                return NotFound(new { message = "Мавзу ёфт нашуд" });
             }
 
-            _context.Mavods.Remove(book);
+            _context.Mavzuho.Remove(mavzu);
             await _context.SaveChangesAsync();
             return NoContent();
         }
